@@ -1,1 +1,2 @@
-<!-- first push to remote repo -->
+# first-repo
+Author :Pritesh 1
